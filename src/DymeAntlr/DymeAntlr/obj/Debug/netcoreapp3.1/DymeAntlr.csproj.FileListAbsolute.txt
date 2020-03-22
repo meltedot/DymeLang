@@ -1,0 +1,13 @@
+C:\Users\Poliveira\source\repos\DymeAntlr\DymeAntlr\bin\Debug\netcoreapp3.1\DymeAntlr.exe
+C:\Users\Poliveira\source\repos\DymeAntlr\DymeAntlr\obj\Debug\netcoreapp3.1\DymeAntlr.csprojAssemblyReference.cache
+C:\Users\Poliveira\source\repos\DymeAntlr\DymeAntlr\obj\Debug\netcoreapp3.1\DymeAntlr.AssemblyInfoInputs.cache
+C:\Users\Poliveira\source\repos\DymeAntlr\DymeAntlr\obj\Debug\netcoreapp3.1\DymeAntlr.AssemblyInfo.cs
+C:\Users\Poliveira\source\repos\DymeAntlr\DymeAntlr\bin\Debug\netcoreapp3.1\DymeAntlr.deps.json
+C:\Users\Poliveira\source\repos\DymeAntlr\DymeAntlr\bin\Debug\netcoreapp3.1\DymeAntlr.runtimeconfig.json
+C:\Users\Poliveira\source\repos\DymeAntlr\DymeAntlr\bin\Debug\netcoreapp3.1\DymeAntlr.runtimeconfig.dev.json
+C:\Users\Poliveira\source\repos\DymeAntlr\DymeAntlr\bin\Debug\netcoreapp3.1\DymeAntlr.dll
+C:\Users\Poliveira\source\repos\DymeAntlr\DymeAntlr\bin\Debug\netcoreapp3.1\DymeAntlr.pdb
+C:\Users\Poliveira\source\repos\DymeAntlr\DymeAntlr\bin\Debug\netcoreapp3.1\Antlr4.Runtime.Standard.dll
+C:\Users\Poliveira\source\repos\DymeAntlr\DymeAntlr\obj\Debug\netcoreapp3.1\DymeAntlr.csproj.CopyComplete
+C:\Users\Poliveira\source\repos\DymeAntlr\DymeAntlr\obj\Debug\netcoreapp3.1\DymeAntlr.dll
+C:\Users\Poliveira\source\repos\DymeAntlr\DymeAntlr\obj\Debug\netcoreapp3.1\DymeAntlr.pdb

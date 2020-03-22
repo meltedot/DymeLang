@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Poliveira\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Poliveira\\.nuget\\packages"
+    ]
+  }
+}
