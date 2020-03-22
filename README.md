@@ -74,3 +74,19 @@ rand.RandomRange(0, 10); // random range
   Explanation: Checks if first expression is in the last expression (list).  
   Example: `4 :: 0 --> 10` .. returns: true  
   Example: `2 :: [1, 3, 5, 7]` .. returns: false  
+
+  * Simple, one line structuring  
+  Usage: `type ? = ?, ?, ?, ...`  
+  Explanation: Simple ways of making data structures using types.
+  Example:
+  ```javascript
+  type Point = x, y;
+  let highpoint = new Point { x: 2, y: 10 };
+  writeln(highpoint);
+  /* returns..
+  Point: {
+    x: 2,
+    y: 10
+  } */
+  // Pretty printing!
+  ```
