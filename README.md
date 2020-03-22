@@ -89,4 +89,67 @@ rand.RandomRange(0, 10); // random range
     y: 10
   } */
   // Pretty printing!
-  ```
+  ```  
+
+# Example Programs
+
+## Hello World
+```javascript
+writeln("Hello World!");
+```
+
+## Retrieve a random number in a range
+```javascript
+let rand = new Random();
+writeln(rand.RandomRange(0, 10));
+```
+
+## Iteration with indexing
+```javascript
+for index, number :: 0 --> 10 {
+  writeln(index + " " + number);
+}
+```
+
+## Classes
+```javascript
+class MyClass = {
+  let x = 0; // Variable inside class scope
+
+  // Constructor, called when class is created
+  this.ctor = fn {
+    writeln("Class created!");
+  }
+
+  // Function in class
+  this.hello = fn x {
+    writeln("Hello " + x + "!");
+  }
+}
+
+let m = new MyClass();
+m.hello();
+m.x;
+```  
+
+Classes can also have parameters:
+```javascript
+class ClassWithParameters(x, y) = {
+  this.ctor = fn {
+    writeln(x + " " + y);
+  }
+}
+let m = new ClassWithParameters(2, 4);
+```
+
+## Fibonacci Sequence
+```javascript
+let fib = fn n {
+	if n <= 1 {
+		return n;
+	}
+	return fib(n - 1) + fib(n - 2);
+};
+
+writeln(fib(8));
+```
