@@ -142,6 +142,17 @@ class ClassWithParameters(x, y) = {
 let m = new ClassWithParameters(2, 4);
 ```
 
+## Types and Enums
+```javascript
+// Type (struct)
+type Point = x, y;
+let highpoint = new Point { x: 2, y: 10 };
+
+// Enum Type
+type IpAddress = V4 | V6;
+let MyIp = IpAdress.V4;
+```
+
 ## Fibonacci Sequence
 ```javascript
 let fib = fn n {
