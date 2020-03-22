@@ -56,5 +56,21 @@ rand.RandomRange(0, 10); // random range
 
   * `-->` operator  
   Usage: `int --> int`  
-  Explanation: Creates a range of numbers as a list from the first integer (minimum) to last integer (maximum)  
+  Explanation: Creates a range of numbers as a list from the first integer (minimum) to last integer (maximum).  
   Example: `0 --> 5` .. returns: [0, 1, 2, 3, 4]  
+
+  * `->` operator  
+  Usage: `obj -> (type)`  
+  Explanation: Casts the object to the specific type.  
+  Example: `"42" -> (int)` .. returns: 42  
+
+  * `-?>` operator  
+  Usage: `obj -?> (type)`  
+  Explanation: Type checks the object to see if it is the type.  
+  Example: `"42" -?> (int)` .. returns: false  
+
+  * `::` operator  
+  Usage: `expr :: expr`  
+  Explanation: Checks if first expression is in the last expression (list).  
+  Example: `4 :: 0 --> 10` .. returns: true  
+  Example: `2 :: [1, 3, 5, 7]` .. returns: false  
