@@ -145,10 +145,10 @@ let m = new ClassWithParameters(2, 4);
 ## Fibonacci Sequence
 ```javascript
 let fib = fn n {
-	if n <= 1 {
-		return n;
-	}
-	return fib(n - 1) + fib(n - 2);
+  if n <= 1 {
+  	return n;
+  }
+  return fib(n - 1) + fib(n - 2);
 };
 
 writeln(fib(8));
